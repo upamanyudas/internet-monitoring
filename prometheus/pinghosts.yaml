@@ -1,7 +1,9 @@
 - targets:  # url;humanname;routing;switch
     - http://www.google.com/;google.com;external;internetbox
     - https://github.com/;github.com;external;internetbox
-    - https://www.jeffgeerling.com;jeffgeerling.com;external;internetbox
+    - https://upamanyu.in/;upamanyu.in;external;internetbox
+    - https://banglaaudiobook.in/;banglaaudiobook.in;external;internetbox
+    - https://wildark.photo/;wildark.photo;external;internetbox
     # - http://192.168.1.1;internetbox;local;internetbox
     # - http://192.168.1.42;blackdata;local;orbirouter-attic
     # - http://192.168.1.101;orbirouter;local;orbirouter
